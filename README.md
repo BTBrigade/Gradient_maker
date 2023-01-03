@@ -32,7 +32,7 @@ https://www.amazon.com/gp/product/B07RV1D98T/ref=ppx_yo_dt_b_asin_title_o03_s00?
 Neodynium magnets (100):
 https://www.amazon.com/gp/product/B07MV6M12H/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
-M3 button head hex drive screws: https://www.mcmaster.com/bolts/rounded-head-screws/hex-drive-rounded- head-screws/
+M3 button head hex drive screws: https://www.mcmaster.com/bolts/rounded-head-screws/hex-drive-rounded-head-screws/
 The length needed will depend on the enclosure width.
 
 M2.5 x 0.45 10mm long hex drive flat head screws (25): https://www.mcmaster.com/92125A088/
@@ -40,7 +40,7 @@ M2.5 x 0.45 10mm long hex drive flat head screws (25): https://www.mcmaster.com/
 Proto Pasta Black PRO Series PLA Filament - 1.75mm: https://www.matterhackers.com/store/l/pro-series-
 pla/sk/MY6C8H7E
 
-Faucet and Valve packing (1): https://www.acehardware.com/departments/plumbing/faucet-and-faucet- repair/faucet-and-valve-packing/40215
+Faucet and Valve packing (1): https://www.acehardware.com/departments/plumbing/faucet-and-faucet-repair/faucet-and-valve-packing/40215
 This is for softening the surface between the rack and carousel — also provides a touch of adhesion.
                  
 3D printed parts list
