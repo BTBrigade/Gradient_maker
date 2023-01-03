@@ -1,5 +1,4 @@
 # Gradient_maker
-Gradient Former Read Me
 
 The purpose of this machine is to form linear gradients for ultracentrifugation. Our lab primarily uses sucrose solutions, so the parts here are sufficient for our use case. If you are forming another type of gradient, it may be wise to consult the driver and motor datasheets to confirm that these components will work for your application. As always, you can find the parts listed cheaper, but this was a project I wanted to complete quickly, so I used parts from proven manufacturers. You will need access to a 3D printer and basic power tools to complete this project. Additionally, you will need to find an enclosure to protect the electronics and provide a stable base for the stepper motor arm that turns the gradients.
 
