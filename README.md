@@ -85,19 +85,34 @@ Hookup guides and Code
 I focused on making this as plug and play as possible. The soldering is minimal, and the connections are listed in the .ino file. For your convenience, I have pasted them below. Despite this being straightforward, I would strongly encourage you to read the documentation and pull out the breadboard to mock everything up before soldering. I used a small prototyping board to solder VCC, GND, SDA, SCL, and resistors so I wouldn’t fuck up the motor shield.
 
 Pin addresses
-Arduino --> I2C LCD2004 GND --> GND
+Arduino --> I2C 
+
+LCD2004 GND --> GND
+
 VCC --> 5V
+
 SDA --> A4
+
 SCL --> A5
+
 Arduino --> Push button (wired with 10Kohm pulldown resitor to ground) D10 --> push 1
+
 D11 --> push 2
+
 D12 --> push 3
+
 D13 --> push 4
+
 Arduino --> Adafruit Motor Shield V2 -> Steppers
+
 The shield is a shield, so it just plugs in to the Arduino. Shield M1 --> Yellow and Blue stepper 1
+
 Shield M2 --> Green and Red stepper 1
+
 Shield M3 --> Yellow and Blue stepper 2
+
 Shield M4 --> Green and Red stepper 2
+
 Note: wire orientation does not influence stepper behavior as long each coil is controlled independently.
 
 References
