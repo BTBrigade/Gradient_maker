@@ -10,7 +10,9 @@ Arduino Uno REV3 (1): https://store.arduino.cc/usa/arduino-uno-rev3
 https://www.amazon.com/gp/product/B06Y1LF8T5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
 Stepper motor driver (1) Adafruit:
-https://www.amazon.com/gp/product/B00JI99DX4/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 Stepper motor (2): https://www.sparkfun.com/products/9238
+https://www.amazon.com/gp/product/B00JI99DX4/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 
+
+Stepper motor (2): https://www.sparkfun.com/products/9238
 
 12V 2A power supply (2):
 https://www.amazon.com/gp/product/B077PW5JC3/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
